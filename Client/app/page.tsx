@@ -1,7 +1,8 @@
-import Image from 'next/image'
+import React from "react"
+import Users from '@/app/pages/Users/index'
 
 export default function Home() {
   return (
-    <main></main>
+    <main><Users /></main>
   )
 }
