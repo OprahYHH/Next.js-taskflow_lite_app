@@ -2,7 +2,7 @@ import React from 'react'
 
 function Users() {
   return (
-    <div style={{ textAlign: 'center', padding: '20px' }}>User</div>
+    <div className='text-left pt-4'>User</div>
   )
 }
 
